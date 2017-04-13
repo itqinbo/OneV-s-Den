@@ -1,11 +1,11 @@
 # Basic
-title: OneV's Den
-subtitle: 上善若水，人淡如菊
-welcome_message: ObjC 中国与 objc.io 合作最新作品<a href="https://objccn.io/products/" target="_blank">《函数式 Swift》,《Core Data》及《Swift 进阶》已经发布</a>，<a href="https://www.boxueio.com/register/ec84c3dd183b0acc820d5eae474d499d">泊学网正在开展订阅赠书活动，也欢迎前往了解</a>
-description: 嗨，我是王巍 (@onevcat)，一名来自中国的 iOS / Unity 开发者。现居日本，就职于 LINE。正在修行，探求创意之源。
-creator: <a href="http://onev.cat">@onevcat</a>
+title: 七月
+subtitle: 前途之路，步履维艰。
+welcome_message: <a href="http://weibo.com/itqinbo" target="_blank">微博：@丨七月亅</a>
+description: Hi，我是秦波 (@itqinbo)，一名JavaEE开发爱好者。成长，总在每一步之间。这里见证着我的路途轨迹，欢迎你的到来。
+creator: <a href="http://weibo.com/itqinbo">@itqinbo</a>
 
-url: "http://onevcat.com"
+url: "http://www.qinbo.com"
 
 permalink: /:year/:month/:title/
 
@@ -31,17 +31,23 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: onevcat
+    disqus: vno-jekyll
     # duoshuo:
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
+    weibo: 丨七月亅
+    github: itqinbo
+    twitter: itqinbo
     gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: itqinbo@163.com
 
 # Google Analytics
 ga:
     id: UA-25719337-1
-    host: onevcat.com
+    host: qinbo.top
+leancloud_visitors:
+  enable: true
+  app_id: oj8hxqyv5J7QxNQN3fBY7tSh-gzGzoHsz
+  app_key: APd1Mpt47C9sR6bgOlHKn1So
+  
+categories_path: categories.html

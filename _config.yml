@@ -1,0 +1,53 @@
+# Basic
+title: 七月
+subtitle: 前途之路，步履维艰。
+welcome_message: <a href="http://weibo.com/itqinbo" target="_blank">微博：@丨七月亅</a>
+description: Hi，我是秦波 (@itqinbo)，一名JavaEE开发爱好者。成长，总在每一步之间。这里见证着我的路途轨迹，欢迎你的到来。
+creator: <a href="http://weibo.com/itqinbo">@itqinbo</a>
+
+url: "http://www.qinbo.com"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: red
+
+blog_button:
+    title: 博客
+    description: 访问博客
+
+nav:
+    - {title: 项目, description: 我的项目, url: 'http://project.onevcat.com'}
+    - {title: 轨迹, description: 生活轨迹, url: '/sjz.html'}
+    - {title: 订阅, description: 邮件订阅本站, url: '//store.objccn.io/subscribe'}
+    - {title: 介绍, description: 介绍, url: '/xingxing.html'}
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: vno-jekyll
+    # duoshuo:
+# Social
+social:
+    weibo: 丨七月亅
+    github: itqinbo
+    twitter: itqinbo
+    gplus: 107108267983477358170
+    mail: itqinbo@163.com
+
+# Google Analytics
+ga:
+    id: UA-25719337-1
+    host: qinbo.top
+leancloud_visitors:
+  enable: true
+  app_id: oj8hxqyv5J7QxNQN3fBY7tSh-gzGzoHsz
+  app_key: APd1Mpt47C9sR6bgOlHKn1So
+  
+categories_path: categories.html

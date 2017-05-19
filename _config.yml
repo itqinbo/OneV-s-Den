@@ -20,7 +20,7 @@ blog_button:
     description: 访问博客
 
 nav:
-    - {title: 项目, description: 我的项目, url: 'http://project.onevcat.com'}
+    //- {title: 项目, description: 我的项目, url: 'http://project.onevcat.com'}
     - {title: 轨迹, description: 生活轨迹, url: '/sjz.html'}
     - {title: 订阅, description: 邮件订阅本站, url: '//store.objccn.io/subscribe'}
     - {title: 介绍, description: 介绍, url: '/xingxing.html'}

@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Maven版本jeecg快速开发平台环境的搭建
+title: "使用邮件来进行信息管理，顺便介绍最近写的一个小 app - Mail Me"
 date: 2017-04-11 10:34:24.000000000 +09:00
+tags: jeecg
+
 ---
 ### 开发工具
 

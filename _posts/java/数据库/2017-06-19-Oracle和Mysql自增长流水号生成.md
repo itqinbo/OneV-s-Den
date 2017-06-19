@@ -74,6 +74,7 @@ select f_contq('T_EVENT_DEAL_CONTRADICT')  from dual
 ## Mysql格式
 	(需要用到navicat premium,当然只要工具可以支持mysql函数即可:该函数没有实现日期拼接,仅实现每天清0,想实现的自己拼接)
 　　mysql由于sqlyog不支持函数,所以在navicat premium里 点击[函数-新建函数-函数-输入这个历程参数可以不填-完成-然后复制declare---return c 替换RETURN 0 即可]
+  　　
 ``` javascript
 /*
 uesr:表名
@@ -98,7 +99,9 @@ end if;
 END
 
 ```
+　　
 ### 函数的调用
+　　
 ``` javascript
 //fn为你保存函数时的名字,
 select fn();

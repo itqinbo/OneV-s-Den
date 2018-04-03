@@ -49,6 +49,4 @@ leancloud_visitors:
   enable: true
   app_id: oj8hxqyv5J7QxNQN3fBY7tSh-gzGzoHsz
   app_key: APd1Mpt47C9sR6bgOlHKn1So
-  google_site_verification: true
-    baidu_site_verification: true
 categories_path: categories.html

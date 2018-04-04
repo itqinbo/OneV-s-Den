@@ -16,14 +16,14 @@ highlighter: rouge
 cover_color: red
 
 blog_button:
-    title: 博客
+    title: 我的博客
     description: 访问博客
 
 nav:
     - {title: 最近项目, description: 我的项目, url: 'https://github.com/itqinbo/civilized-traffic'}
-    - {title: 轨迹, description: 生活轨迹, url: '/sjz.html'}
+   # - {title: 轨迹, description: 生活轨迹, url: '/sjz.html'}
    # - {title: 订阅, description: 邮件订阅本站, url: '//store.objccn.io/subscribe'}
-    - {title: 介绍, description: 介绍, url: '/xingxing.html'}
+   # - {title: 介绍, description: 介绍, url: '/xingxing.html'}
 # Pagination
 gems: [jekyll-paginate]
 paginate: 2

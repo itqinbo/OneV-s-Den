@@ -26,7 +26,7 @@ nav:
    # - {title: 介绍, description: 介绍, url: '/xingxing.html'}
 # Pagination
 gems: [jekyll-paginate]
-paginate: 2
+paginate: 4
 paginate_path: "page/:num/"
 
 # Comment

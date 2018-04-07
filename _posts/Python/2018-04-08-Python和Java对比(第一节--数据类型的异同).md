@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "python和java对比-------数据结构的区别"
+title: "python学习---------之与java数据结构异同"
 date: 2018-04-08 10:20:24
 tags: python
 

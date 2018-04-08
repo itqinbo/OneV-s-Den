@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "python学习---------之与java数据结构异同"
+title: "python基础1---------之与java数据结构异同"
 date: 2018-04-08 10:20:24
 tags: python
 
@@ -66,3 +66,4 @@ List（列表）、Dictionary（字典）是可变数据。
 			    保持键的唯一性同TreeSet相同。
 　　	Python 字典无分类，dict是Python的基本数据结构
 ~~~
+##### Python 

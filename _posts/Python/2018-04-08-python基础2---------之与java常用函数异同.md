@@ -48,23 +48,23 @@ tags: linux
 
 ##### 2.Python 循环语句
 　　	Python提供了for循环和while循环（在Python中没有java的do..while循环），对于循环嵌套和java基本逻辑处理是一致的，只是语法问题，这里不做解释
-	1.Python的for循环语法格式：![](https://i.imgur.com/vg6Vpfy.png)
+　　1.Python的for循环语法格式：![](https://i.imgur.com/vg6Vpfy.png)
 ~~~
 	for iterating_var in sequence:
   			 statements(s)
 ~~~
-	2.Python的while循环语法格式：![](https://i.imgur.com/Gwws3H9.png)
+　　2.Python的while循环语法格式：![](https://i.imgur.com/Gwws3H9.png)
 ~~~
 	while 判断条件：
     	执行语句……
 ~~~
-	3.结束循环
+　　3.结束循环
 　　python结束循环和java一样都是用continue和break，continue 语句跳出本次循环，而break跳出整个循环
 此外python还提供pass语法，但是pass这个并没有什么卵用，它不做任何事情，一般用做占位语句。如图![](https://i.imgur.com/3jp3iNz.png)
 ##### 3.Python 导包
 　　导包引用其它类中的函数java中可以通过import导包，那么python呢，python可以通过以下方导包，具体什么意思懂java的一看便知。
-	1.from modname import name1[, name2[, ... nameN]]（相当于java 从modname类导入函数name1）
-	2.from…import* 
-	3.import xxx
+　　1.from modname import name1[, name2[, ... nameN]]（相当于java 从modname类导入函数name1）
+　　2.from…import* 
+　　3.import xxx
 
 	

@@ -40,9 +40,12 @@ List（列表）、Dictionary（字典）是可变数据。
 ###### Java list与Python list相比较
 
 　　	对于list和java中并无太大区别但是没有java中ArrayList，LinkedList，vector三种分类，这个玩意在java中就用的很多，所以在Python中是使用最频繁的数据类型
+
 ###### Python 元组概念
+
 　　	元组，对于元组概念java中并没有，到底什么是元组，简单点讲元组就是一个不可变的list，但是它又不仅仅是一个不可变list，最大区别就是元组的元素不能修改，元组写在小括号 () 里。
 如a = [1, 'aaaa', 'bbbb', 4.22, 5, 6]这是一个列表,而tuple = ( 'abcd', 786 , 2.23, 'runoob', 70.2  )这是一个元组，list中提供一些列函数如append()、pop()等等在元组中是不存在的
+
 ###### Java Set与Python set相比较
 
 　　	java中Set里存放的对象是无序，不能重复的，集合中的对象不按特定的方式排序，只是简单地把对象加入集合中，
@@ -50,7 +53,9 @@ List（列表）、Dictionary（字典）是可变数据。
 	　　	--HashSet:底层使用哈希表，线程不安全，保证对象唯一的方式:重写hashcode(),equals(Object obj).使用哈希算法导致无序
 		---TreeSet:底层使用二叉树，线程不安全，保证对象唯一的方式:1 实现Comparable<E>接口，实现compareTo()方法的返回值是0，则不能加入。2 创建一个类，实现Comparator<T>，实现compare()方法。
 　　	对于python：无分类，就是一种无序集合
+
 ###### Java Map与Python dict相比较
+
 　　	对于java中的map在python叫做Dictionary
 　　	Java Map分类：
 		--- HashMap:底层使用的数据结构是哈希表

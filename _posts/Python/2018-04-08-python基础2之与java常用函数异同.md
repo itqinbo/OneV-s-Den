@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "python基础2---------之与java常用函数异同"
+title: "python基础2之与java常用函数异同"
 date: 2018-04-08 15:33:24.000000000 +09:00
 tags: linux
 

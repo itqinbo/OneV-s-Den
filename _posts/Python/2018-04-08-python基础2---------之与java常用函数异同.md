@@ -62,6 +62,7 @@ tags: linux
 　　python结束循环和java一样都是用continue和break，continue 语句跳出本次循环，而break跳出整个循环
 此外python还提供pass语法，但是pass这个并没有什么卵用，它不做任何事情，一般用做占位语句。如图![](https://i.imgur.com/3jp3iNz.png)
 ##### 3.Python 导包
+
 　　导包引用其它类中的函数java中可以通过import导包，那么python呢，python可以通过以下方导包，具体什么意思懂java的一看便知。
 　　1.from modname import name1[, name2[, ... nameN]]（相当于java 从modname类导入函数name1）
 　　2.from…import* 
